@@ -1,3 +1,5 @@
+#-*-coding:utf-8 -*-
+
 import app.poet as poet
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
