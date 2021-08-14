@@ -1,8 +1,8 @@
 # !/usr/bin/python
 #-*-coding:utf-8 -*-
 
-import matplotlib
-import matplotlib.pyplot as plt
+#import matplotlib
+#import matplotlib.pyplot as plt
 from IPython import display
 import os
 os.environ['TRIDENT_BACKEND'] = 'pytorch'
